@@ -1,0 +1,34 @@
+Python
+
+Deep Learning
+
+Convolutional Neural Networks (CNN)
+
+TensorFlow
+
+Keras
+
+OpenCV
+
+NumPy
+
+Pandas
+
+Matplotlib
+
+Scikit-learn
+
+Computer Vision
+
+Image Processing
+
+Plant Disease Classification
+
+PlantVillage Dataset
+
+Image Preprocessing
+
+Data Augmentation
+
+Model Training
+
